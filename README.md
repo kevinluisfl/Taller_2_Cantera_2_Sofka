@@ -27,7 +27,7 @@ Dos interfaces: IUtilities, IOrbit
 ```
 
 - Se crean los atributos y métodos de cada clase
-- Se implementan y sobrecargan los métodos necsarios
+- Se implementan y sobrecargan los métodos necesarios
 - En la main class se crea el código para la creación de naves de forma dinámica
 
 > Hice uso en gran parte de JOptionPane y ArrayList para la construcción de la solución
@@ -36,16 +36,16 @@ Dos interfaces: IUtilities, IOrbit
 
 `Clonar proyecto - abrir en IDE `
 
-`Ejecutar el archivo :ShipBuilder.java del package main `
+`Ejecutar el archivo: ShipBuilder.java del package main `
 
-###Icono nave
+### Icono nave
 
 ![](https://images.vexels.com/media/users/3/150030/isolated/lists/21f6aa2ebb5547cb55eab996913e3007-ilustracion-de-nave-espacial.png)
 
 > es.vexels.com
 
-####Referencias:
+#### Referencias:
 `<link>` : <https://mkyong.com/swing/java-swing-joptionpane-showinputdialog-example/>
 `<link>` : <https://www.w3schools.com/java/ref_string_equals.asp>
 `<link>` : <https://mkyong.com/swing/java-swing-how-to-make-a-confirmation-dialog/>
-`<link>` :<https://images.vexels.com/media/users/3/150030/isolated/lists/21f6aa2ebb5547cb55eab996913e3007-ilustracion-de-nave-espacial.png></https://images.vexels.com/media/users/3/150030/isolated/lists/21f6aa2ebb5547cb55eab996913e3007-ilustracion-de-nave-espacial.png>
+`<link>` : <https://images.vexels.com/media/users/3/150030/isolated/lists/21f6aa2ebb5547cb55eab996913e3007-ilustracion-de-nave-espacial.png></https://images.vexels.com/media/users/3/150030/isolated/lists/21f6aa2ebb5547cb55eab996913e3007-ilustracion-de-nave-espacial.png>
