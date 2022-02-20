@@ -93,12 +93,16 @@ public class ShipBuilder {
                  */
                 if(typeCraft.equals("Launch Vehicle")){
                     decision = 1;
+                    System.out.println("Creando: Launch Vehicle...");
                 }else if(typeCraft.equals("Robotic Spacecraft")){
                     decision = 2;
+                    System.out.println("Creando: Robotic Spacecraft...");
                 }else if(typeCraft.equals("Manned Spacecraft")){
                     decision = 3;
+                    System.out.println("Creando: Manned Spacecraft...");
                 }else if(typeCraft.equals("Satellite")){
                     decision = 4;
+                    System.out.println("Creando: Satellite...");
                 }else{
                     decision = 0;
                 }
@@ -167,7 +171,6 @@ public class ShipBuilder {
                  * caso para la clase LaunchVehicles
                  */
                 case 1:
-                    System.out.println("Creando: Launch Vehicle...");
                     /**
                      * objeto de selección para carga
                      */
@@ -212,7 +215,6 @@ public class ShipBuilder {
                  * caso para la clase RoboticSpacecraft
                  */
                 case 2:
-                    System.out.println("Creando: Robotic Spacecraft...");
                     /**
                      * objeto de selección para instrumento
                      */
@@ -257,7 +259,6 @@ public class ShipBuilder {
                  * caso para la clase MannedSpacecraft
                  */
                 case 3:
-                    System.out.println("Creando: Manned Spacecraft...");
                     /**
                      * ingreso de orbita objetivo
                      */
@@ -297,7 +298,6 @@ public class ShipBuilder {
                  * caso para la clase Satellite
                  */
                 case 4:
-                    System.out.println("Creando: Satellite...");
                     /**
                      * objeto de selección para destino
                      */
